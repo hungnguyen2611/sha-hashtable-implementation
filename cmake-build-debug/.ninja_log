@@ -1,0 +1,10 @@
+# ninja log v5
+11	287	6700104710392963	CMakeFiles/sha_collection.dir/hashtable.cpp.obj	6ba671d4b6f0807b
+3	486	6700053335729547	CMakeFiles/sha_collection.dir/sha1.cpp.obj	388c838b17a98ec9
+12	329	6700089166481107	CMakeFiles/sha_collection.dir/sha256.cpp.obj	c7d0262a4346e63
+4	323	6700104935420164	CMakeFiles/sha_collection.dir/main.cpp.obj	eab3775c7b845568
+324	438	6700104936468697	sha_collection.exe	ad4a5893ca0e7834
+12	309	6700122727412466	CMakeFiles/sha_collection.dir/hashtable.cpp.obj	6ba671d4b6f0807b
+2	324	6700122727589766	CMakeFiles/sha_collection.dir/main.cpp.obj	eab3775c7b845568
+14	332	6700122727660572	CMakeFiles/sha_collection.dir/md5.cpp.obj	eee2dd45285fd45a
+333	476	6700122729062913	sha_collection.exe	d7bd8ad600f0d5a0
